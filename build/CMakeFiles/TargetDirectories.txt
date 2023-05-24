@@ -1,0 +1,4 @@
+/home/gursel/Desktop/Modern C++ for Computer Vision/Youtube/build/CMakeFiles/opencc.dir
+/home/gursel/Desktop/Modern C++ for Computer Vision/Youtube/build/CMakeFiles/yolo.dir
+/home/gursel/Desktop/Modern C++ for Computer Vision/Youtube/build/CMakeFiles/edit_cache.dir
+/home/gursel/Desktop/Modern C++ for Computer Vision/Youtube/build/CMakeFiles/rebuild_cache.dir
